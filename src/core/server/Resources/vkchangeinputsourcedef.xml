@@ -143,6 +143,11 @@
   </vkchangeinputsourcedef>
 
   <vkchangeinputsourcedef>
+    <name>KeyCode::VK_CHANGE_INPUTSOURCE_US_EXTENDED</name>
+    <inputsourceid_equal>com.apple.keylayout.USExtended</inputsourceid_equal>
+  </vkchangeinputsourcedef>
+
+  <vkchangeinputsourcedef>
     <name>KeyCode::VK_CHANGE_INPUTSOURCE_CHINESE_SIMPLIFIED</name>
     <inputmodeid_prefix>com.apple.inputmethod.SCIM</inputmodeid_prefix>
   </vkchangeinputsourcedef>
